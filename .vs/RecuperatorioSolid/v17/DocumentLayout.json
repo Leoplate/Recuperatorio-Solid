@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Practica SOLID\\RecuperatorioSolid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|c:\\practica solid\\recuperatoriosolid\\recuperatoriosolid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|solutionrelative:recuperatoriosolid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|c:\\practica solid\\recuperatoriosolid\\recuperatoriosolid\\dip\\base_good_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|solutionrelative:recuperatoriosolid\\dip\\base_good_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|c:\\practica solid\\recuperatoriosolid\\recuperatoriosolid\\dip\\base_bad_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|solutionrelative:recuperatoriosolid\\dip\\base_bad_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|c:\\practica solid\\recuperatoriosolid\\recuperatoriosolid\\srp\\base_bad_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|solutionrelative:recuperatoriosolid\\srp\\base_bad_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|c:\\practica solid\\recuperatoriosolid\\recuperatoriosolid\\lsp\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|solutionrelative:recuperatoriosolid\\lsp\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|c:\\practica solid\\recuperatoriosolid\\recuperatoriosolid\\lsp\\good_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|solutionrelative:recuperatoriosolid\\lsp\\good_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|c:\\practica solid\\recuperatoriosolid\\recuperatoriosolid\\lsp\\bad_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|solutionrelative:recuperatoriosolid\\lsp\\bad_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|c:\\practica solid\\recuperatoriosolid\\recuperatoriosolid\\lsp\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|solutionrelative:recuperatoriosolid\\lsp\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|c:\\practica solid\\recuperatoriosolid\\recuperatoriosolid\\lsp\\elefante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|solutionrelative:recuperatoriosolid\\lsp\\elefante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|c:\\practica solid\\recuperatoriosolid\\recuperatoriosolid\\isp\\bad_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|solutionrelative:recuperatoriosolid\\isp\\bad_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|c:\\practica solid\\recuperatoriosolid\\recuperatoriosolid\\isp\\insectogood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|solutionrelative:recuperatoriosolid\\isp\\insectogood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|c:\\practica solid\\recuperatoriosolid\\recuperatoriosolid\\isp\\insectobad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|solutionrelative:recuperatoriosolid\\isp\\insectobad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|c:\\practica solid\\recuperatoriosolid\\recuperatoriosolid\\isp\\good_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|solutionrelative:recuperatoriosolid\\isp\\good_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|c:\\practica solid\\recuperatoriosolid\\recuperatoriosolid\\ocp\\ocp_bad_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|solutionrelative:recuperatoriosolid\\ocp\\ocp_bad_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|c:\\practica solid\\recuperatoriosolid\\recuperatoriosolid\\ocp\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|solutionrelative:recuperatoriosolid\\ocp\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|c:\\practica solid\\recuperatoriosolid\\recuperatoriosolid\\srp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|solutionrelative:recuperatoriosolid\\srp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|c:\\practica solid\\recuperatoriosolid\\recuperatoriosolid\\srp\\base_good_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|solutionrelative:recuperatoriosolid\\srp\\base_good_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|c:\\practica solid\\recuperatoriosolid\\recuperatoriosolid\\ocp\\ocp_good_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B1E8D3-A3F8-4D6E-94F6-38D4FE0D402D}|RecuperatorioSolid\\RecuperatorioSolid.csproj|solutionrelative:recuperatoriosolid\\ocp\\ocp_good_implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BASE_GOOD_IMPLEMENTATION.cs",
+              "DocumentMoniker": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\DIP\\BASE_GOOD_IMPLEMENTATION.cs",
+              "RelativeDocumentMoniker": "RecuperatorioSolid\\DIP\\BASE_GOOD_IMPLEMENTATION.cs",
+              "ToolTip": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\DIP\\BASE_GOOD_IMPLEMENTATION.cs",
+              "RelativeToolTip": "RecuperatorioSolid\\DIP\\BASE_GOOD_IMPLEMENTATION.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAqwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T21:22:32.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BASE_BAD_IMPLEMENTATION.cs",
+              "DocumentMoniker": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\DIP\\BASE_BAD_IMPLEMENTATION.cs",
+              "RelativeDocumentMoniker": "RecuperatorioSolid\\DIP\\BASE_BAD_IMPLEMENTATION.cs",
+              "ToolTip": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\DIP\\BASE_BAD_IMPLEMENTATION.cs",
+              "RelativeToolTip": "RecuperatorioSolid\\DIP\\BASE_BAD_IMPLEMENTATION.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T21:05:48.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\Program.cs",
+              "RelativeDocumentMoniker": "RecuperatorioSolid\\Program.cs",
+              "ToolTip": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\Program.cs",
+              "RelativeToolTip": "RecuperatorioSolid\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:12:17.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GOOD_IMPLEMENTATION.cs",
+              "DocumentMoniker": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\LSP\\GOOD_IMPLEMENTATION.cs",
+              "RelativeDocumentMoniker": "RecuperatorioSolid\\LSP\\GOOD_IMPLEMENTATION.cs",
+              "ToolTip": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\LSP\\GOOD_IMPLEMENTATION.cs",
+              "RelativeToolTip": "RecuperatorioSolid\\LSP\\GOOD_IMPLEMENTATION.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:23:47.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Zoo.cs",
+              "DocumentMoniker": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\LSP\\Zoo.cs",
+              "RelativeDocumentMoniker": "RecuperatorioSolid\\LSP\\Zoo.cs",
+              "ToolTip": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\LSP\\Zoo.cs",
+              "RelativeToolTip": "RecuperatorioSolid\\LSP\\Zoo.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:22:13.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BASE_BAD_IMPLEMENTATION.cs",
+              "DocumentMoniker": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\SRP\\BASE_BAD_IMPLEMENTATION.cs",
+              "RelativeDocumentMoniker": "RecuperatorioSolid\\SRP\\BASE_BAD_IMPLEMENTATION.cs",
+              "ToolTip": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\SRP\\BASE_BAD_IMPLEMENTATION.cs",
+              "RelativeToolTip": "RecuperatorioSolid\\SRP\\BASE_BAD_IMPLEMENTATION.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:20:34.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BAD_IMPLEMENTATION.cs",
+              "DocumentMoniker": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\LSP\\BAD_IMPLEMENTATION.cs",
+              "RelativeDocumentMoniker": "RecuperatorioSolid\\LSP\\BAD_IMPLEMENTATION.cs",
+              "ToolTip": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\LSP\\BAD_IMPLEMENTATION.cs",
+              "RelativeToolTip": "RecuperatorioSolid\\LSP\\BAD_IMPLEMENTATION.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:51:46.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\LSP\\Perro.cs",
+              "RelativeDocumentMoniker": "RecuperatorioSolid\\LSP\\Perro.cs",
+              "ToolTip": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\LSP\\Perro.cs",
+              "RelativeToolTip": "RecuperatorioSolid\\LSP\\Perro.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAnwB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:31:26.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Elefante.cs",
+              "DocumentMoniker": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\LSP\\Elefante.cs",
+              "RelativeDocumentMoniker": "RecuperatorioSolid\\LSP\\Elefante.cs",
+              "ToolTip": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\LSP\\Elefante.cs",
+              "RelativeToolTip": "RecuperatorioSolid\\LSP\\Elefante.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:15:46.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BAD_IMPLEMENTATION.cs",
+              "DocumentMoniker": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\ISP\\BAD_IMPLEMENTATION.cs",
+              "RelativeDocumentMoniker": "RecuperatorioSolid\\ISP\\BAD_IMPLEMENTATION.cs",
+              "ToolTip": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\ISP\\BAD_IMPLEMENTATION.cs",
+              "RelativeToolTip": "RecuperatorioSolid\\ISP\\BAD_IMPLEMENTATION.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:55:40.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InsectoGOOD.cs",
+              "DocumentMoniker": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\ISP\\InsectoGOOD.cs",
+              "RelativeDocumentMoniker": "RecuperatorioSolid\\ISP\\InsectoGOOD.cs",
+              "ToolTip": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\ISP\\InsectoGOOD.cs",
+              "RelativeToolTip": "RecuperatorioSolid\\ISP\\InsectoGOOD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:09:05.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InsectoBAD.cs",
+              "DocumentMoniker": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\ISP\\InsectoBAD.cs",
+              "RelativeDocumentMoniker": "RecuperatorioSolid\\ISP\\InsectoBAD.cs",
+              "ToolTip": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\ISP\\InsectoBAD.cs",
+              "RelativeToolTip": "RecuperatorioSolid\\ISP\\InsectoBAD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T19:50:55.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GOOD_IMPLEMENTATION.cs",
+              "DocumentMoniker": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\ISP\\GOOD_IMPLEMENTATION.cs",
+              "RelativeDocumentMoniker": "RecuperatorioSolid\\ISP\\GOOD_IMPLEMENTATION.cs",
+              "ToolTip": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\ISP\\GOOD_IMPLEMENTATION.cs",
+              "RelativeToolTip": "RecuperatorioSolid\\ISP\\GOOD_IMPLEMENTATION.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:13:40.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OCP_BAD_IMPLEMENTATION.cs",
+              "DocumentMoniker": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\OCP\\OCP_BAD_IMPLEMENTATION.cs",
+              "RelativeDocumentMoniker": "RecuperatorioSolid\\OCP\\OCP_BAD_IMPLEMENTATION.cs",
+              "ToolTip": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\OCP\\OCP_BAD_IMPLEMENTATION.cs",
+              "RelativeToolTip": "RecuperatorioSolid\\OCP\\OCP_BAD_IMPLEMENTATION.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:47:52.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\OCP\\Auto.cs",
+              "RelativeDocumentMoniker": "RecuperatorioSolid\\OCP\\Auto.cs",
+              "ToolTip": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\OCP\\Auto.cs",
+              "RelativeToolTip": "RecuperatorioSolid\\OCP\\Auto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:07:24.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CAR.cs",
+              "DocumentMoniker": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\SRP\\CAR.cs",
+              "RelativeDocumentMoniker": "RecuperatorioSolid\\SRP\\CAR.cs",
+              "ToolTip": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\SRP\\CAR.cs",
+              "RelativeToolTip": "RecuperatorioSolid\\SRP\\CAR.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:16:05.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BASE_GOOD_IMPLEMENTATION.cs",
+              "DocumentMoniker": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\SRP\\BASE_GOOD_IMPLEMENTATION.cs",
+              "RelativeDocumentMoniker": "RecuperatorioSolid\\SRP\\BASE_GOOD_IMPLEMENTATION.cs",
+              "ToolTip": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\SRP\\BASE_GOOD_IMPLEMENTATION.cs",
+              "RelativeToolTip": "RecuperatorioSolid\\SRP\\BASE_GOOD_IMPLEMENTATION.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:44:43.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OCP_GOOD_IMPLEMENTATION.cs",
+              "DocumentMoniker": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\OCP\\OCP_GOOD_IMPLEMENTATION.cs",
+              "RelativeDocumentMoniker": "RecuperatorioSolid\\OCP\\OCP_GOOD_IMPLEMENTATION.cs",
+              "ToolTip": "C:\\Practica SOLID\\RecuperatorioSolid\\RecuperatorioSolid\\OCP\\OCP_GOOD_IMPLEMENTATION.cs",
+              "RelativeToolTip": "RecuperatorioSolid\\OCP\\OCP_GOOD_IMPLEMENTATION.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAGQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:43:06.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

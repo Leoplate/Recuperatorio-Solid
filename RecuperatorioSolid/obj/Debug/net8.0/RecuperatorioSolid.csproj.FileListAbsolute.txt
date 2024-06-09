@@ -1,0 +1,14 @@
+C:\Practica SOLID\RecuperatorioSolid\RecuperatorioSolid\obj\Debug\net8.0\RecuperatorioSolid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practica SOLID\RecuperatorioSolid\RecuperatorioSolid\obj\Debug\net8.0\RecuperatorioSolid.AssemblyInfoInputs.cache
+C:\Practica SOLID\RecuperatorioSolid\RecuperatorioSolid\obj\Debug\net8.0\RecuperatorioSolid.AssemblyInfo.cs
+C:\Practica SOLID\RecuperatorioSolid\RecuperatorioSolid\obj\Debug\net8.0\RecuperatorioSolid.csproj.CoreCompileInputs.cache
+C:\Practica SOLID\RecuperatorioSolid\RecuperatorioSolid\bin\Debug\net8.0\RecuperatorioSolid.exe
+C:\Practica SOLID\RecuperatorioSolid\RecuperatorioSolid\bin\Debug\net8.0\RecuperatorioSolid.deps.json
+C:\Practica SOLID\RecuperatorioSolid\RecuperatorioSolid\bin\Debug\net8.0\RecuperatorioSolid.runtimeconfig.json
+C:\Practica SOLID\RecuperatorioSolid\RecuperatorioSolid\bin\Debug\net8.0\RecuperatorioSolid.dll
+C:\Practica SOLID\RecuperatorioSolid\RecuperatorioSolid\bin\Debug\net8.0\RecuperatorioSolid.pdb
+C:\Practica SOLID\RecuperatorioSolid\RecuperatorioSolid\obj\Debug\net8.0\RecuperatorioSolid.dll
+C:\Practica SOLID\RecuperatorioSolid\RecuperatorioSolid\obj\Debug\net8.0\refint\RecuperatorioSolid.dll
+C:\Practica SOLID\RecuperatorioSolid\RecuperatorioSolid\obj\Debug\net8.0\RecuperatorioSolid.pdb
+C:\Practica SOLID\RecuperatorioSolid\RecuperatorioSolid\obj\Debug\net8.0\RecuperatorioSolid.genruntimeconfig.cache
+C:\Practica SOLID\RecuperatorioSolid\RecuperatorioSolid\obj\Debug\net8.0\ref\RecuperatorioSolid.dll
